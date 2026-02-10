@@ -25,5 +25,5 @@ Special thanks to the Discord server hytale-docs, for the help provided in the s
 The plugin will still be finalized.
 
 # Commands:
-/auth reload(required:"authx.*") - reload database
-/changepassword(required:"authx.changepassword") - change your password
+- /auth reload(required:"authx.*") - reload database
+- /changepassword(required:"authx.changepassword") - change your password
