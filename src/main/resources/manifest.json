@@ -1,0 +1,10 @@
+{
+  "Group": "com.authx",
+  "Name": "authx",
+  "Version": "1.0.0",
+  "Description": "A Hytale server plugin for authorization.",
+  "Authors": [{"Name": "Xeno"}],
+  "Main": "com.authx.authclass.authxPlugin",
+  "LoadOrder": "POSTWORLD",
+  "IncludesAssetPack": true
+}
