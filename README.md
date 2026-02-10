@@ -23,3 +23,7 @@ The plugin was written to familiarize you with the Hytale API, so there may be e
 Special thanks to the Discord server hytale-docs, for the help provided in the study.
 
 The plugin will still be finalized.
+
+Commands:
+/auth reload(required:"authx.*") - reload database
+/changepassword(required:"authx.changepassword") - change your password
